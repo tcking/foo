@@ -1,3 +1,0 @@
-this is a text file name a.txt
-hello
-world
