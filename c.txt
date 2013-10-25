@@ -1,0 +1,3 @@
+this is a text file named c.txt
+hello
+world
